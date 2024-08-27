@@ -1,0 +1,8 @@
+.about-container {
+    max-width: 800px; /* Adjust the max width as needed */
+    margin: auto; /* Center the container */
+}
+
+.text-orange-500 {
+    color: #FFA500; /* Adjust the orange color as needed */
+}
