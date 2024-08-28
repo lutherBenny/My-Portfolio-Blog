@@ -18,7 +18,11 @@ import P8 from "../assets/p8.jpg"
 import P9 from "../assets/p9.jpg"
 import luther00 from "../assets/luther00.jpg"; // Ensure this path is correct
 import udemy from "../assets/udemy.jpg"
+<<<<<<< HEAD
 
+=======
+import { useEffect } from 'react';
+>>>>>>> 65f4a9544155fde48dad2bcae59d10a19ecc5501
 
 
 
