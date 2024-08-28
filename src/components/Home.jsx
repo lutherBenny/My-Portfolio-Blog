@@ -11,8 +11,15 @@ import NODE from "../assets/node-js.png";
 
 
 
+
 import P4 from "../assets/p4.jpg";  // or whatever the correct path and file name is
 
+
+import P1 from "../assets/p1.jpg";
+import P2 from "../assets/p2.png";
+import P3 from "../assets/p3.png";
+import P4 from "../assets/p4.jpg";  // or whatever the correct path and file name is
+import P5 from "../assets/p5.jpg.jpg"
 
 import P6 from "../assets/p6.jpg"
 import P7 from "../assets/p7.jpg"
@@ -20,6 +27,11 @@ import P8 from "../assets/p8.jpg"
 import P9 from "../assets/p9.jpg"
 import luther00 from "../assets/luther00.jpg"; // Ensure this path is correct
 import udemy from "../assets/udemy.jpg"
+
+
+
+
+import { useEffect } from 'react';
 
 
 
